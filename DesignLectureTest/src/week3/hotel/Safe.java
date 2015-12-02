@@ -1,6 +1,6 @@
 package week3.hotel;
 //TODO jml
-import week1.Password;
+//import week1.Password;
 
 public class Safe {
 	

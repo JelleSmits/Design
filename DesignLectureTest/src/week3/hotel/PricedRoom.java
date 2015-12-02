@@ -1,6 +1,6 @@
 package week3.hotel;
 
-import week3.Format;
+//import week3.Format;
 
 public class PricedRoom extends Room implements Bill.Item {
 	
@@ -15,9 +15,9 @@ public class PricedRoom extends Room implements Bill.Item {
 		return price;
 	}
 	
-	public String toString() {
-		return Format.printLine("Price of the room per night: €", price);
-	}
+//	public String toString() {
+//		return Format.printLine("Price of the room per night: €", price);
+//	}
 	
 
 }

@@ -1,6 +1,6 @@
 package week3.hotel;
 
-import week3.Format;
+//import week3.Format;
 
 public class PricedSafe extends Safe implements Bill.Item {
 	
@@ -14,7 +14,7 @@ public class PricedSafe extends Safe implements Bill.Item {
 		return price;
 	}
 	
-	public String toString() {
-		return Format.printLine("Price of the safe: €", price);
-	}
+//	public String toString() {
+//		return Format.printLine("Price of the safe: €", price);
+//	}
 }

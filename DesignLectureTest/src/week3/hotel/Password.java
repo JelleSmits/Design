@@ -1,8 +1,8 @@
 package week3.hotel;
 
-import week3.BasicChecker;
-import week3.Checker;
-import week3.StrongChecker;
+//import week3.BasicChecker;
+//import week3.Checker;
+//import week3.StrongChecker;
 
 public class Password {
 	
